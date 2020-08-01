@@ -128,7 +128,23 @@ a:hover {
   color: #4b5658;
 }
 
+.c-block {
+  margin: 30px;
+  padding: 20px 40px 40px;
+  text-align: center;
+  background: #fff;
+  border: 1px solid #dadada;
+  border-radius: 6px;
+  color: #4b5658;
+}
+
 .company {
+  background: #5FCF80;
+  color: white;
+  padding: 20px;
+}
+
+.block-title {
   background: #5FCF80;
   color: white;
   padding: 20px;
